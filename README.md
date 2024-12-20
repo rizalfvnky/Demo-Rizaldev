@@ -111,20 +111,20 @@ Inside **Rizaldev** template, you'll see the following folders and files:
 │   │   │   ├── [category]/
 │   │   │   ├── [tag]/
 │   │   │   ├── [...page].astro
-│   │   │   └── index.astro
-│   │   ├── index.astro
-│   │   ├── 404.astro
+│   │   │   └── index
+│   │   ├── index
+│   │   ├── 404
 │   │   ├-- rss.xml.ts
 │   │   └── ...
 │   ├── utils/
 │   ├── config.yaml
 │   └── navigation.js
 ├── package.json
-├── astro.config.ts
+├── config.ts
 └── ...
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+ looks for `` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
 There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
