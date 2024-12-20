@@ -5,7 +5,7 @@
 
 🌟 _Most *starred* & *forked* Rizaldev theme in 2023 & 2024_. 🌟
 
-**Rizaldev** is a free and open-source template to make your website using **[Astro 5.0](https://rizaldev.my.id) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account web best practices.
+**Rizaldev** is a free and open-source template to make your website using **[developer](https://rizaldev.my.id) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account web best practices.
 
 - ✅ **Production-ready** scores in **PageSpeed Insights** reports.
 - ✅ Integration with **Tailwind CSS** supporting **Dark mode** and **_RTL_**.
