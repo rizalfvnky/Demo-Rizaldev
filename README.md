@@ -1,6 +1,6 @@
 # 🚀 Rizaldev
 
-**[developer](https://rizaldev.my.id).
+[developer](https://rizaldev.my.id).
 
 <br>
 
