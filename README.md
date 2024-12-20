@@ -1,6 +1,6 @@
 # 🚀 Rizaldev
 
-<img src="https://api.betabotz.eu.org/api/tools/get-upload?id=f/l2qmwq2z.jpg" align="right"
+<img src="https://api.betabotz.eu.org/api/tools/get-upload?id=f/9feecton.jpg" align="right"
      alt="Rizaldev Lighthouse Score" width="100" height="358">
 
 🌟 _Most *starred* & *forked* Astro theme in 2023 & 2024_. 🌟
