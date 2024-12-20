@@ -1,19 +1,6 @@
 # 🚀 Rizaldev
 
-<img src="https://api.betabotz.eu.org/api/tools/get-upload?id=f/9feecton.jpg" align="right"
-     alt="Rizaldev Lighthouse Score" width="100" height="358">
-
-🌟 _Most *starred* & *forked* Rizaldev theme in 2023 & 2024_. 🌟
-
-**Rizaldev** is a free and open-source template to make your website using **[developer](https://rizaldev.my.id) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account web best practices.
-
-- ✅ **Production-ready** scores in **PageSpeed Insights** reports.
-- ✅ Integration with **Tailwind CSS** supporting **Dark mode** and **_RTL_**.
-- ✅ **Fast and SEO friendly blog** with automatic **RSS feed**, **MDX** support, **Categories & Tags**, **Social Share**, ...
-- ✅ **Image Optimization** (using new **Astro Assets** and **Unpic** for Universal image CDN).
-- ✅ Generation of **project sitemap** based on your routes.
-- ✅ **Open Graph tags** for social media sharing.
-- ✅ **Analytics** built-in Google Analytics, and Splitbee integration.
+**[developer](https://rizaldev.my.id).
 
 <br>
 
